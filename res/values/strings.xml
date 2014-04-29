@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Anagram</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_first">Jumble</string>
+    <string name="title_activity_second">Jumble</string>
+    <string name="title_activity_third">Jumble</string>
+    <string name="title_activity_fourth">Jumble</string>
+    <string name="title_activity_fifth">Jumble</string>
+    <string name="title_activity_sixth">Jumble</string>
+    <string name="title_activity_seventh">Jumble</string>
+    <string name="title_activity_eigthh">Jumble</string>
+    <string name="title_activity_ninth">Jumble</string>
+    <string name="title_activity_tenth">Jumble</string>
+    <string name="title_activity_end">Jumble</string>
+    <string name="title_activity_eleventh">Jumble</string>
+    <string name="title_activity_twelfth">Jumble</string>
+    <string name="title_activity_thirteenth">Jumble</string>
+    <string name="title_activity_fourteenth">Jumble</string>
+    <string name="title_activity_fifteenth">Jumble</string>
+    <string name="title_activity_sixteenth">Jumble</string>
+    <string name="title_activity_seventeenth">Jumble</string>
+    <string name="title_activity_eighteenth">Jumble</string>
+    <string name="title_activity_ninteenth">Jumble</string>
+    <string name="title_activity_twentieth">Jumble</string>
+
+</resources>
